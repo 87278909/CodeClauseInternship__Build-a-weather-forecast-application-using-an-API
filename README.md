@@ -1,4 +1,4 @@
-# CodeClauseInternship__Build-a-weather-forecast-application-using-an-API
+#Build-a-weather-forecast-application-using-an-API
 # Weather Forecasting App
 This straightforward weather forecast app gives users access to the most recent weather data based on their input.
 
